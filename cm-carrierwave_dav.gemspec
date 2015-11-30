@@ -4,7 +4,7 @@
 # -*- encoding: utf-8 -*-
 
 Gem::Specification.new do |s|
-  s.name = %q{carrierwave_dav}
+  s.name = %q{cm-carrierwave_dav}
   s.version = "0.1.2"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
@@ -25,7 +25,7 @@ Gem::Specification.new do |s|
     "README.rdoc",
     "Rakefile",
     "VERSION",
-    "carrierwave_dav.gemspec",
+    "cm-carrierwave_dav.gemspec",
     "lib/carrierwave_dav.rb",
     "lib/carrierwave_dav/file.rb",
     "lib/carrierwave_dav/storage.rb",
